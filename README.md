@@ -1,1 +1,1 @@
-*A Self Explanatory Walkthrough for Linear Quantization*
+**A Self Explanatory Walkthrough for Linear Quantization**
